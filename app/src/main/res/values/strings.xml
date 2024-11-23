@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThreadsApp</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="sign_in_to_account">Вход в аккаунт</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="switch_image">Смена картинки</string>
+</resources>
