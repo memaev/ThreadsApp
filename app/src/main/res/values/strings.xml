@@ -2,6 +2,8 @@
     <string name="app_name">ThreadsApp</string>
     <string name="welcome">Добро пожаловать</string>
     <string name="sign_in_to_account">Вход в аккаунт</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="username">Имя пользователя</string>
     <string name="email">Электронная почта</string>
     <string name="password">Пароль</string>
     <string name="sign_in">Войти</string>
